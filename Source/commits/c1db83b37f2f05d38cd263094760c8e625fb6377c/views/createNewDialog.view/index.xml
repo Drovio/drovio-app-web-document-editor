@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view id="createNewDialog"><sdk_dependencies><dependency library="UI" object="Apps"></dependency><dependency library="UI" object="Forms"></dependency><dependency library="UI" object="Navigation"></dependency><dependency library="UI" object="Presentation"></dependency><dependency library="AEL" object="Literals"></dependency><dependency library="BSS" object="WebDocs"></dependency></sdk_dependencies><app_dependencies/></view>

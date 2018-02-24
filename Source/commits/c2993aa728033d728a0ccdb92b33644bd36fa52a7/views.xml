@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<views><view name="MainView"/><folder name="library"><view name="libraryExplorer"/><view name="actionDialog"/><view name="createFolder"/><view name="createDocument"/><view name="removeFolder"/></folder><folder name="editor"><view name="documentEditor"/></folder></views>

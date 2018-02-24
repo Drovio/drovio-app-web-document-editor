@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view id="documentViewer"><sdk_dependencies><dependency library="AEL" object="Literals"></dependency><dependency library="API" object="Geoloc"></dependency><dependency library="BSS" object="WebDocs"></dependency><dependency library="UI" object="Apps"></dependency><dependency library="UI" object="Developer"></dependency><dependency library="UI" object="Forms"></dependency></sdk_dependencies><app_dependencies/></view>

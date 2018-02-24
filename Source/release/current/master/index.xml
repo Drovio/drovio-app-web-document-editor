@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app><styles/><scripts/><views><view name="MainView"/><view name="documentEditor"/><view name="createFolder"/><view name="createDocument"/><view name="libraryExplorer"/><view name="createNewDialog"/></views></app>

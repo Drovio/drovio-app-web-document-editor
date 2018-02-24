@@ -1,0 +1,50 @@
+.webDocViewer {
+	height: 100%;
+	overflow: auto;
+}
+.webDocViewer .navbar {
+	height: 50px;
+	border-bottom: 1px solid #CCC;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	background: #FFF;
+	overflow: auto;
+}
+.webDocViewer .docContainer {
+	position: absolute;
+	top: 50px;
+	bottom: 0px;
+	width: 100%;
+	overflow: auto;
+}
+.webDocViewer .pvfContainer {
+	& {
+		line-height: 26px;
+		margin: 12px 5px;
+		float: left;
+	}
+	.pvfLabel {
+		float: left;
+	}
+	.pvfInput {
+		float: left;
+		margin: 4px 10px;
+	}
+	.pvfButton {
+		float: left;
+	}
+}
+.webDocViewer .edfContainer {
+	float: right;
+	line-height: 26px;
+	margin: 12px 10px;
+}
+.webDocViewer .edfContainer .action {
+	float: left;
+	cursor: pointer;
+	color: rgb(31, 93, 144);
+}
+.webDocViewer .edfContainer .sep {
+	margin: 0px 5px;
+}
