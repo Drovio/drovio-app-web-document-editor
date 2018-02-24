@@ -1,0 +1,200 @@
+<DATA>
+
+	<ROW>
+		<id>app0e2660d4008417930c60b4a262574f42</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>libraryExplorer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app17df6303be616c41204f927ec76716c0</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>removeFolder.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app1e655ffb6e44db28fa327c66dcca888e</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>actionDialog.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app2e6d11c6ee2bc75d2b5c080da8535cf3</id>
+		<project_id>38</project_id>
+		<path>/</path>
+		<name>views.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app32c2cefc5fc43179c75cf4a0ddb89bbc</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>createDocument.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app381b6ced0267b42d64b588ba7b537d0a</id>
+		<project_id>38</project_id>
+		<path>/</path>
+		<name>settings.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app4d454ee7a7adf2f1de8372f3baec12af</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>createNewDialog.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app551baf65ea0e106b8ce896b155ba30d6</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>MainView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app5c342a7c107a3aa7c6dfab757446232b</id>
+		<project_id>38</project_id>
+		<path>/</path>
+		<name>index.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app61d97c3d16b35bce796877a5bc9867b2</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>libraryExplorer.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app63f22c0e145fd3164e39eb72cd1b35c2</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>createFolder.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app75bab273da3ada316a05d597857899d0</id>
+		<project_id>38</project_id>
+		<path>/views/</path>
+		<name>docViewer_Tab.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app7fb2320863e4a60ec2d03f807ff99b15</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>createDocument.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app8e191a2fc8c8445a11a3ea2c5845a19c</id>
+		<project_id>38</project_id>
+		<path>/views/editor</path>
+		<name>test.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app92193d37e291078170d9809d613c4c0e</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>documentEditor.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appa60186b4d7fb394fd36a0c053fbd678b</id>
+		<project_id>38</project_id>
+		<path>/views/editor</path>
+		<name>deleteDocument.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appabeaaca72bb7a770183d63711fc6e704</id>
+		<project_id>38</project_id>
+		<path>/</path>
+		<name>source.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appb51ff4ca14c31c69fd01463d4fdddc74</id>
+		<project_id>38</project_id>
+		<path>/views</path>
+		<name>createFolder.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appcc7442d896352e7a7567fa1e384184b1</id>
+		<project_id>38</project_id>
+		<path>/views/library</path>
+		<name>testView.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appd2b93b38b885f637761610f25300ec26</id>
+		<project_id>38</project_id>
+		<path>/views/</path>
+		<name>documentViewer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appe7341aa6e9a0d2c6ac7bb9ba359a7fc5</id>
+		<project_id>38</project_id>
+		<path>/views/editor</path>
+		<name>exportDocument.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appfbd030369981e551de0fccf6f2577fee</id>
+		<project_id>38</project_id>
+		<path>/views/editor</path>
+		<name>documentEditor.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+</DATA>
