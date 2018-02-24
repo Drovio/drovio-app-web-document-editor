@@ -1,0 +1,97 @@
+<DATA>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>1</build>
+		<time>1410599843</time>
+		<title>Initial release</title>
+		<description></description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>2</build>
+		<time>1421759560</time>
+		<title>Development release</title>
+		<description></description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>3</build>
+		<time>1421760282</time>
+		<title>Development release</title>
+		<description></description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>4</build>
+		<time>1433863347</time>
+		<title>Web Docs Editor</title>
+		<description>Preview mode added for all documents.
+Feature for editing in any locale added.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>5</build>
+		<time>1433863921</time>
+		<title>Web Docs Editor</title>
+		<description>Preview mode added for all documents.
+Feature for editing in any locale added.
+
+Issues editing docs in inner folders fixed.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>6</build>
+		<time>1440505271</time>
+		<title>Web Docs</title>
+		<description>Minor ui and behavior fixes.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>7</build>
+		<time>1440572473</time>
+		<title>Web Docs</title>
+		<description>Compatibility issues fixed.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.1</version>
+		<build>8</build>
+		<time>1440582047</time>
+		<title>Web Docs</title>
+		<description>Major facelift.
+Search enabled for the document library.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>38</project_id>
+		<branch_name>master</branch_name>
+		<version>0.2</version>
+		<build>1</build>
+		<time>1445876512</time>
+		<title>Web Docs</title>
+		<description>Fixing minor issues in document editor tool.</description>
+	</ROW>
+</DATA>

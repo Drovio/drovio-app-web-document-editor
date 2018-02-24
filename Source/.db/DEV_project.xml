@@ -1,0 +1,15 @@
+<DATA>
+
+	<ROW>
+		<id>38</id>
+		<name>WebDocs</name>
+		<title>Web Docs</title>
+		<description>A simple editor for Redback Web Docs.
+Fast and simple to use, this web docs editor takes advantage of the Web Docs API delivering the best experience editing your documents.</description>
+		<projectType>4</projectType>
+		<team_id>7</team_id>
+		<online>1</online>
+		<open>0</open>
+		<public>0</public>
+	</ROW>
+</DATA>
